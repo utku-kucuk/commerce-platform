@@ -1,4 +1,4 @@
-package entity;
+package com.utkukucuk.commerceplatform.entity;
 
 
 import jakarta.persistence.*;
